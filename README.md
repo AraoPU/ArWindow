@@ -117,6 +117,6 @@ ArWindow/
 
 ## 版权声明
 
-Copyright (C) 2026 Ar Studio. Distributed under the MIT License.
+Copyright © 2026 Ar Studio. Distributed under the MIT License.
 
 基于 Qt 开发，Qt 的版权归 The Qt Company 所有。
