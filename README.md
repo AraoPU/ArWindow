@@ -1,8 +1,8 @@
 # ArWindow
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://github.com/AraoPU/ArWindow/releases)
-[![Latest Release](https://img.shields.io/github/v/release/AraoPU/Cortex?label=Release)](https://github.com/AraoPU/ArWindow/releases)
-[![Downloads](https://img.shields.io/github/downloads/AraoPU/Cortex/total)](https://github.com/AraoPU/ArWindow/releases)
+[![Latest Release](https://img.shields.io/github/v/release/AraoPU/ArWindow?label=Release)](https://github.com/AraoPU/ArWindow/releases)
+[![Downloads](https://img.shields.io/github/downloads/AraoPU/ArWindow/total)](https://github.com/AraoPU/ArWindow/releases)
 
 > 轻量级 Windows 窗口管理器 — 列出、查看、强制控制所有可见窗口
 
