@@ -27,7 +27,7 @@ ArWindow 是一个基于 Qt 6 的 Windows 桌面工具，可以枚举系统中�
 
 ## 截图
 
-<img width="902" height="632" alt="image" src="https://github.com/user-attachments/assets/4a73e6e7-5456-4fe5-bcc7-da43e1bfa819" />
+<img width="902" height="632" alt="image" src="https://github.com/user-attachments/assets/c0107d14-e45e-459d-8b94-c1ef65cd91c0" />
 <img width="502" height="432" alt="image" src="https://github.com/user-attachments/assets/2e231b03-b3e8-4deb-a522-e202341841e5" />
 <img width="502" height="432" alt="image" src="https://github.com/user-attachments/assets/37365317-ee82-4564-b825-f8dfe5b7d86e" />
 
