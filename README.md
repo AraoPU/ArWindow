@@ -7,6 +7,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg?logo=windows&logoColor=white)
+[![Latest Release](https://img.shields.io/github/v/release/AraoPU/ArWindow?label=Release)](https://github.com/AraoPU/ArWindow/releases)
+[![Downloads](https://img.shields.io/github/downloads/AraoPU/ArWindow/total)](https://github.com/AraoPU/ArWindow/releases)
 ![Qt](https://img.shields.io/badge/Qt6-gray?logo=qt)
 ![C++](https://img.shields.io/badge/C%2B%2B%2017-gray?logo=c%2B%2B&logoColor=%2300599C)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-00599C.svg)
