@@ -1,0 +1,85 @@
+# ===== Qt / C++ 构建产物 =====
+build/
+bin/
+obj/
+moc/
+rcc/
+ui_*.h
+moc_*.cpp
+moc_predefs.h
+qrc_*.cpp
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# ===== qmake / CMake 临时文件 =====
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+*.user
+*.user.*
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# ===== Qt Creator / IDE 本地配置 =====
+.qtcreator/
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc.depends
+*.autosave
+*.qmlproject.user
+*.qmlproject.user.*
+.idea/
+.vscode/
+*.swp
+*~
+
+# ===== 资源文件编译产物 =====
+ArWindow_resource.rc
+ArWindow_resource_res.o
+qrc_*.cpp
+
+# ===== 操作系统杂项 =====
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+# macOS
+.DS_Store
+._*
+# Linux
+*~
+.directory
+
+# ===== 调试符号 / 崩溃转储 =====
+*.pdb
+*.ilk
+*.map
+*.stackdump
+core
+core.*
+
+# ===== 日志 / 临时文件 =====
+*.log
+*.tmp
+*.bak
+*.old
+tmp/
+temp/
+
+# ===== 依赖 / 第三方库（按需取消注释）=====
+# 如果项目带第三方库源码或预编译二进制，建议放在第三方目录统一忽略
+# third_party/
+# libs/
+# vendor/

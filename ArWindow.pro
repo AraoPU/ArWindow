@@ -1,6 +1,6 @@
 QT += core gui widgets
 
-CONFIG += c++17 cmdline
+CONFIG += c++17
 
 TARGET = ArWindow
 TEMPLATE = app
@@ -15,6 +15,10 @@ HEADERS += mainwindow.h \
 FORMS += mainwindow.ui \
          settingsdialog.ui
 
+OTHER_FILES += \
+    LICENSE \
+    README.md
+
 DESTDIR = ./bin
 MOC_DIR = ./moc
 OBJECTS_DIR = ./obj
@@ -27,4 +31,8 @@ win32 {
 }
 
 VERSION = 1.0.0
+MAKE_TARGET_COMPANY = "Ar Studio"
+QMAKE_TARGET_DESCRIPTION = $${TARGET}
+QMAKE_TARGET_COPYRIGHT = "Copyright (C) 2026 Ar Studio. All Rights Reserved."
+
 DEFINES += QT_DEPRECATED_WARNINGS

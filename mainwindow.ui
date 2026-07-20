@@ -46,16 +46,16 @@
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="forceMaxBtn">
+       <widget class="QPushButton" name="forceMinBtn">
         <property name="text">
-         <string>最大化</string>
+         <string>最小化</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="forceMinBtn">
+       <widget class="QPushButton" name="forceMaxBtn">
         <property name="text">
-         <string>最小化</string>
+         <string>最大化</string>
         </property>
        </widget>
       </item>
